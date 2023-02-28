@@ -8,3 +8,5 @@ echo 'BuntyWP5';
 echo 'BuntyWP6';
 echo 'BuntyWP7';
 echo 'BuntyWP8';
+
+echo 'Feature C';
